@@ -1,0 +1,21 @@
+.TodoList {
+	background: rgb(146, 120, 124);
+	color: #fff;
+	text-align: left;
+	padding: 20px;
+	border-radius: 4px;
+	font-size: 20px;
+}
+
+.TodoList li {
+	padding: 10px;
+	cursor: pointer;
+	list-style: none;
+}
+
+.TodoList li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 11px;
+	margin-right: 20px;
+}
